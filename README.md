@@ -1,5 +1,5 @@
 ## **Genshin Impact YouTube Scrape Analysis**
-Using Selenium to scrape Genshin Impacts EN [YouTube channel](https://www.youtube.com/c/GenshinImpact "Genshin Impact's YouTube channel").
+Using Selenium to scrape Genshin Impact's English [YouTube channel](https://www.youtube.com/c/GenshinImpact "Genshin Impact's YouTube channel").
 
 Obtained title, view count, duration (seconds), and approximate date posted for every video posted on their channel.
 
