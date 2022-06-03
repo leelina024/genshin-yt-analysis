@@ -6,6 +6,7 @@ Obtained title, view count, duration (seconds), and approximate date posted for 
 Cleaned and analyzed to find trends/patterns with viewships and duration. 
 
 ![Example](https://i.imgur.com/C2gWUop.png)
+
 `As of 2022-06-02 21:08:17 Thursday`
 
 ------------
